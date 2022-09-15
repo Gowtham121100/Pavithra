@@ -1,0 +1,64 @@
+*
+{
+    background-color: bisque;
+}
+h1{
+    color:rgb(160, 9, 160);
+}
+#full{
+    color:rgb(240, 9, 47);
+    background-color: rgb(112, 216, 213);
+
+}
+th{
+    color:maroon;
+    background-color: limegreen;
+}
+h3,h4{
+    font-style: italic;
+    font-size: larger;
+    font-weight: bold;
+    color: darkblue;
+    background-color: fuchsia;
+}
+.fc{
+    color:black;
+    font-style: oblique;
+    font-weight: 900;
+    font-size: larger;
+    background-color: aqua;
+}
+.sc{
+    color:green;
+    font-size: large;
+    background-color: aqua;
+}
+.tc{
+    color:orangered;
+    font-size: large;
+    background-color: aqua;
+}
+.lc{
+    color: navy;
+    font-size: larger;
+    font-weight: bolder;
+    background-color: aqua;
+}
+ul{
+    color: darkgreen;
+    font-size: large;
+    font-weight: 500;
+}
+ol{
+    color: indigo;
+    font-size: large;
+}
+a{
+    color:brown;
+    font-size: larger;
+    font-weight: bold;
+}
+p{
+    color: midnightblue;
+    font-weight: bold;
+}
